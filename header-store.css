@@ -1,4 +1,4 @@
-header {
+.header-store {
   background-color: #e24647;
   color: #fff;
   overflow: hidden;
@@ -6,21 +6,25 @@ header {
   padding: 60px 60px 95px;
 }
 
-nav {
+.navigation {
   font-size: 21px;
   font-family: 'Segoe UI', 'Roboto',sans-serif;
   text-transform: capitalize;
   float: right;
 }
 
-h1 {
+.logo {
   font-size: 40px;
   text-transform: uppercase;
   font-family: 'Arial', 'Roboto', sans-serif;
   float: left;
 }
 
-a {
+.menu {
   color: inherit;
-  padding-right: 60px;
+  margin-right: 60px;
+}
+
+.-last {
+  margin-right: 0;
 }
