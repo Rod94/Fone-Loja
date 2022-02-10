@@ -12,7 +12,7 @@
   line-height: 60px;
 }
 
-.-first {
+.button.-first {
   margin-right: 40px;
   background-color: transparent;
   border: solid 2px #fff;
