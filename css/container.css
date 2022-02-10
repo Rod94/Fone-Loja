@@ -1,0 +1,9 @@
+.container {
+  width: 80%;
+  background-color: #e24647;
+  padding: 60px 60px 95px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}

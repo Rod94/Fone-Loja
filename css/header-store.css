@@ -1,26 +1,23 @@
 .header-store {
-  background-color: #e24647;
   color: #fff;
   overflow: hidden;
-  margin: 115px;
-  padding: 60px 60px 95px;
 }
 
-.navigation {
+.navigation-header {
   font-size: 21px;
-  font-family: 'Segoe UI', 'Roboto',sans-serif;
+  font-family: 'Segoe UI', 'Roboto', sans-serif;
   text-transform: capitalize;
   float: right;
 }
 
-.logo {
+.logo-header {
   font-size: 40px;
   text-transform: uppercase;
   font-family: 'Arial', 'Roboto', sans-serif;
   float: left;
 }
 
-.menu {
+.menu-header {
   color: inherit;
   margin-right: 60px;
 }
