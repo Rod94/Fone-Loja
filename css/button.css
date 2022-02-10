@@ -1,11 +1,13 @@
 .button {
+  display: inline-block;
   width: 200px;
   background-color: #252c41;
   height: 60px;
-  border: solid 2px #252c41;
+  border: none;
   color: #fff;
   font-size: 20px;
   font-family: Arial, 'Roboto', sans-serif;
   text-transform: capitalize;
-  padding: 17px 60px 21px 60px;
+  text-align: center;
+  line-height: 60px;
 }
