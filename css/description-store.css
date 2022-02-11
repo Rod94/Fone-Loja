@@ -1,0 +1,38 @@
+.description-store {
+  color: #fff;
+  font-family: 'SegoeUI', sans-serif;
+}
+
+.description-title {
+  font-size: 25px;
+  margin-bottom: 99px;
+}
+
+.description-number {
+  font-size: 20px;
+  margin-bottom: 28px;
+}
+
+.description-shipp {
+  font-size: 20px;
+  margin-bottom: 26px;
+}
+
+.description-price {
+  font-size: 20px;
+  margin-bottom: 73px;
+}
+
+.description-text {
+  font-size: 18px;
+  margin-bottom: 30px;
+}
+
+.description-know {
+  font-size: 18px;
+  margin-bottom: 118px;
+}
+
+.-know {
+  color: inherit;
+}
