@@ -1,6 +1,8 @@
 .description-store {
   color: #fff;
-  font-family: 'SegoeUI', sans-serif;
+  font-family: 'Segoe UI', sans-serif;
+  width: 720px;
+  float: right;
 }
 
 .description-title {
