@@ -3,27 +3,33 @@
   font-family: 'Segoe UI', sans-serif;
   display: inline-block;
   width: 555px;
-  vertical-align: middle;
 }
 
 .description-title {
   font-size: 25px;
-  margin-bottom: 99px;
+  margin-bottom: 50px;
+}
+
+.description-star {
+  display: inline;
 }
 
 .description-number {
   font-size: 20px;
+  margin-top: 25px;
   margin-bottom: 28px;
 }
 
 .description-shipp {
   font-size: 20px;
   margin-bottom: 26px;
+  text-transform: uppercase;
 }
 
 .description-price {
   font-size: 20px;
   margin-bottom: 73px;
+  text-transform: uppercase;
 }
 
 .description-text {
@@ -34,6 +40,7 @@
 
 .description-know {
   font-size: 18px;
+  margin-bottom: 98px;
 }
 
 .-know {
