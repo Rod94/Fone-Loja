@@ -3,6 +3,7 @@
   font-family: 'Segoe UI', sans-serif;
   display: inline-block;
   width: 555px;
+  vertical-align: middle;
 }
 
 .description-title {
