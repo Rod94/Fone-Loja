@@ -1,8 +1,8 @@
 .description-store {
   color: #fff;
   font-family: 'Segoe UI', sans-serif;
-  width: 555px;
   display: inline-block;
+  width: 555px;
 }
 
 .description-title {
@@ -28,6 +28,7 @@
 .description-text {
   font-size: 18px;
   margin-bottom: 30px;
+  line-height: 30px;
 }
 
 .description-know {
