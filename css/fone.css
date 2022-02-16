@@ -1,5 +1,8 @@
 .fone{
-  width: 547px;
+  display: inline-block;
   height: 547px;
   background-color: #fff;
+  border-top-right-radius: 150px;
+  border-bottom-right-radius: 150px;
+  margin-right: 150px;
 }

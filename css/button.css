@@ -10,11 +10,11 @@
   font-family: Arial, 'Roboto', sans-serif;
   text-align: center;
   line-height: 60px;
+  margin-right: 0;
 }
 
 .button.-first {
   margin-right: 40px;
   background-color: transparent;
   border: solid 2px #fff;
-  float: left;
 }
