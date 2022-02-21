@@ -12,6 +12,18 @@
   float: right;
 }
 
+.search-header {
+  background: transparent;
+  border: none;
+  border-bottom: solid 1px #fff;
+  color: inherit;
+  font-family: 'Arial', 'Roboto', sans-serif;
+  font-size: 20px;
+  padding: 8px;
+  width: 358px;
+  margin-right: 65px;
+}
+
 .logo-header {
   font-size: 40px;
   text-transform: uppercase;
